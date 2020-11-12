@@ -1,0 +1,25 @@
+.img-logo {
+  height: 80px;
+  width: 80px;
+}
+
+.img-logo-shrink {
+  height: 50px;
+  width: 50px;
+}
+
+#mainNav.navbar-shrink {
+  background-color: #000000;
+}
+
+#mainNav.navbar-shrink {
+  background-color: #000000;
+}
+
+#mainNav {
+  background: transparent;
+}
+
+#h4.section-heading-oneline {
+    padding-bottom: 1.3em;
+}
